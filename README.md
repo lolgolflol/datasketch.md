@@ -74,3 +74,12 @@ Minhash digest
 
 #จะเหลือเศษ 3 ตัว
 ```
+### Create key from we defined.
+```bash
+key = pickle.dumps("m1")
+# "S'm1'\np0\n."
+```
+### Create dict 
+```bash
+
+```
